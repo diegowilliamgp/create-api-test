@@ -1,0 +1,25 @@
+{
+    "categoria":
+    [
+        {
+            "id": 1,
+            "titulo": "Gráfica",
+            "descricao": "Produtos gráficos em geral"
+        },
+        {
+            "id": 2,
+            "titulo": "Brindes",
+            "descricao": "Brindes em geral"
+        },
+        {
+            "id": 3,
+            "titulo": "Cartões de Visitas",
+            "descricao": "Cartões de Visitas em geral"
+        },
+        {
+            "id": 4,
+            "titulo": "Copos",
+            "descricao": "Copos em geral"
+        }
+    ]
+}
